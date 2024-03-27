@@ -1,0 +1,3 @@
+*__pycache__
+*.env
+*alembic revision --autogenerate -m "add users table"
