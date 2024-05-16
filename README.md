@@ -6,4 +6,15 @@ Este projeto é um modelo de API de autenticação que estou desenvolvendo usand
 
 ## Ferramentas Utilizadas
 
-**Stack:** Python 3.11, FastAPI, SqlAlchemy, PostgreSQL, Alembic, Docker, Pytest, Pydantic, Poetry.
+**Stack:** Python 3.11, FastAPI, SqlAlchemy, PostgreSQL, Alembic, Docker, Pytest, Pydantic.
+
+## ROTAS:
+![App Screenshot](https://raw.githubusercontent.com/NathanOnCodes/Schema-Auth-API/main/assets/printrotadocsprojeto.png)
+
+
+## Autenticação:
+![App Screenshot](https://raw.githubusercontent.com/NathanOnCodes/Schema-Auth-API/main/assets/oauthrotadocsprojeto.png)
+
+
+## Código com a lógica para a Autenticação:
+![App Screenshot](https://raw.githubusercontent.com/NathanOnCodes/Schema-Auth-API/main/assets/snapauthuser.png)
